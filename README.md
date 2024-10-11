@@ -12,6 +12,7 @@
 # links
 - [https://github.com]
 - [https://github.com/topics]
+- [CLI commands](docs/cli.md)
 # Experiments
 - :smiley:
 - :relieved:

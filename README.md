@@ -12,7 +12,7 @@
 # links
 - [https://github.com]
 - [https://github.com/topics]
-[CLI commands](docs/cli.md)
+- [CLI commands](docs/cli.md)
 # Experiments
 - :smiley:
 - :relieved:
@@ -44,3 +44,5 @@ end-of-line
 outline
 linear
 ```
+
+[def]: docs/cli.md

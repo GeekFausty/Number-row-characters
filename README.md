@@ -47,37 +47,5 @@ linear
 
 [def]: docs/cli.md
 
-[
-  {
-    "name": "LeBron Jame",
-    "sport": "Basketball",
-    "Team Name": "Lakers",
-    "Team City": "Los Angeles",
-    "position": "Forward",
-    "Age": 38
-  },
-  {
-    "name": "Lionel Messi",
-    "sport": "Soccer",
-    "Team Name": "Inter Miami",
-    "Team City": "Miami",
-    "position": "Forward",
-    "Age": 36
-  },
-  {
-    "name": "Serena Williams",
-    "sport": "Basketball",
-    "Team Name": "Tennis",
-    "Team City": "N/A",
-    "position": "N/A",
-    "Age": 41
-  },
-  {
-    "name": "Tom Brady",
-    "sport": "Football",
-    "Team Name": "Buccaneers",
-    "Team City": "Tampa Bay",
-    "position": "Quarterback",
-    "Age": 46
-  }
-]
+
+  

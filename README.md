@@ -47,8 +47,6 @@ linear
 
 [def]: docs/cli.md
 
-# Using JSON
-
 [
   {
     "name": "LeBron Jame",
@@ -83,4 +81,3 @@ linear
     "Age": 46
   }
 ]
-
